@@ -13,11 +13,11 @@ from langchain_core.embeddings import Embeddings
 import requests
 
 # Konstanta Konfigurasi API
-AIML_API_KEY = "c2837504c54f21e006ccd36e45a29656"
+AIML_API_KEY ="apikey"
 AIML_BASE_URL = "https://api.aimlapi.com/v1"
 
 # Konstanta Konfigurasi ChromaDB Cloud
-CHROMA_API_KEY = "ck-5yjCg8hNWtu26fJw5FUSu2vdTRY1wYVK1HRdnFVWyWmj"
+CHROMA_API_KEY = "apikey"
 CHROMA_TENANT = "78e6fff5-31a9-44c9-a813-8ed1ed673b73"
 CHROMA_DATABASE = "OOP_RAG"
 
